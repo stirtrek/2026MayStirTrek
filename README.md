@@ -10,6 +10,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 [Application Architecture Patterns](/talks/applicationarchitecture/README.md)
+[Decision Records: Understanding Why Those Decisions Were Made!](/talks/decision-records/README.md)
 [The Dark Side of Microservices](/talks/darksideofmicroservices/README.md)
 
 ## Stir Trek Reviews
