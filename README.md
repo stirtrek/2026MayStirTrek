@@ -4,14 +4,17 @@ Slides and resources from the 2026 May Stir Trek conference.
 
 All presentations were recorded and are (or will be!) available on the [Stir Trek YouTube Channel](https://youtube.com/stirtrek).
 
+**Speakers:** Update this page with your session title (and your name) and add a link to a subfolder under `/talks` with your info or directly to wherever you have info about your session online. Thanks!
+
 ## Sessions by Title
 
-*Add your sessions here, in alphabetical order by session title*
+<!-- Add your sessions here, in alphabetical order by session title -->
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
-[Application Architecture Patterns](/talks/applicationarchitecture/README.md)
-[Decision Records: Understanding Why Those Decisions Were Made!](/talks/decision-records/README.md)
-[The Dark Side of Microservices](/talks/darksideofmicroservices/README.md)
+* [Application Architecture Patterns (Joe Guadagno)](/talks/applicationarchitecture/README.md)
+* [Comparing Promises, Observables, and Signals (Lance Finney)](/talks/comparing-promises-observables-and-signals/README.md)
+* [Dark Side of Microservices, The (Ardalis)](/talks/darksideofmicroservices/README.md)
+* [Decision Records: Understanding Why Those Decisions Were Made! (Sarah Dutkiewicz)](/talks/decision-records/README.md)
 
 ## Stir Trek Reviews
 
