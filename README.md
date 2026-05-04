@@ -10,7 +10,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- Add your sessions here, in alphabetical order by session title -->
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
-* [150K Lines, 0 Unit Tests, No Documentation: How to Work with a Software Landfill (Kelly Morrion)](https://github.com/kellyivymorrison/Presentations/tree/main/StirTrek2026)
+* [150K Lines, 0 Unit Tests, No Documentation: How to Work with a Software Landfill (Kelly Morrison)](https://github.com/kellyivymorrison/Presentations/tree/main/StirTrek2026)
 * [A Developer's Guide to Making Security Reviews Suck Less (Jamie Dicken)](https://docs.google.com/presentation/d/1p5715POPFva8PdDP-VRzlYK_d5g1T_of/edit?usp=sharing&ouid=116389326445023115327&rtpof=true&sd=true)
 * [Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js (Guy Royse)](https://github.com/guyroyse/agents-n-arbiters)
 * [An Intro to Retrieval Augmented Generation (RAG) (Ed Charbeneau)](https://theurlist.com/stirtrek-rag)
