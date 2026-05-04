@@ -22,6 +22,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 * [The Engineer's Playbook: Starting a New Role (Cameron Presley)](https://blog.thesoftwarementor.com/presentations/#the-engineers-playbook-starting-a-new-role)
 * [Ensuring Software Quality in the world of AI Developers (Matthew-Hope Eland)](https://drive.google.com/file/d/1jPWvTCOhoQds-Bum5XqbaF6bInmMF1bq/view?usp=drivesdk)
 * [From PRs to Performance (Eric Martin)](/talks/from-prs-to-performance-coaching-with-ai/README.md)
+* [Generating Quality Code with AI (Cory House)](https://www.dropbox.com/scl/fi/ezclfz0zakxffg3w13sdf/Automating-Quality-with-AI-Stir-Trek-2026.pptx?rlkey=cjo160mn9w9gxv09je8qiclq7&st=o0l1khso&dl=0)
 * [How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users (Kathryn Grayson Nanz)](/talks/how-to-ruin-ui/README.md)
 * [Unlocking Quantum Computing: An Overview (Tristan Chiappisi)](https://unlockingquantumcomputing.com/)
 * [Vector Databases and Embeddings Demystified (Jackie Gleason)](https://docs.google.com/presentation/d/1iCBRPJ-TOJ0m4-UJA5VCVQL7PBwuAlu2Pp_I4VeEO_Q/edit?usp=drivesdk)
@@ -37,7 +38,6 @@ A number of folks shared photos of the event, and we also had a photo booth for 
 
 TODO: Add links here
 
-
 ## Speaker Instructions
 
 [Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-don%E2%80%99t-own/)
@@ -51,6 +51,8 @@ If you'd rather link to your files somewhere else, just add a README with links 
 > /talks/your-session-title/README.md
 
 Then update the list above with a link to your file (or README) in your talk folder, in alphabetical order if you can. Even if you just include your file, feel free to add a README with your contact info, etc. in the folder as well.
+
+If any of that is too much, just add an issue with whatever links and we'll sort it out!
 
 Thanks!
 
