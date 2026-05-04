@@ -11,8 +11,9 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 <!-- Add your sessions here, in alphabetical order by session title -->
 
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
-[Application Architecture Patterns - Joe Guadagno](/talks/applicationarchitecture/README.md)
-[Dark Side of Microservices, The - Ardalis](/talks/darksideofmicroservices/README.md)
+* [Application Architecture Patterns - Joe Guadagno](/talks/applicationarchitecture/README.md)
+* [Comparing Promises, Observables, and Signals (Lance Finney)](/talks/comparing-promises-observables-and-signals/README.md)
+* [Dark Side of Microservices, The - Ardalis](/talks/darksideofmicroservices/README.md)
 
 ## Stir Trek Reviews
 
