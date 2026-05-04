@@ -10,6 +10,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 
 <!-- Add your sessions here, in alphabetical order by session title -->
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
+* [150K Lines, 0 Unit Tests, No Documentation: How to Work with a Software Landfill (Kelly Morrion)](https://github.com/kellyivymorrison/Presentations/tree/main/StirTrek2026)
 * [A Developer's Guide to Making Security Reviews Suck Less (Jamie Dicken)](https://docs.google.com/presentation/d/1p5715POPFva8PdDP-VRzlYK_d5g1T_of/edit?usp=sharing&ouid=116389326445023115327&rtpof=true&sd=true)
 * [Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js (Guy Royse)](https://github.com/guyroyse/agents-n-arbiters)
 * [An Intro to Retrieval Augmented Generation (RAG) (Ed Charbeneau)](https://theurlist.com/stirtrek-rag)
@@ -26,6 +27,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 * [How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users (Kathryn Grayson Nanz)](/talks/how-to-ruin-ui/README.md)
 * [LGTM is not a Strategy (Todd Nussbaum)](/talks/lgtm-not-a-strategy/lgtm-not-a-strategy.pdf)
 * [The Life-Changing Art of Being Wrong (Kathryn Grayson Nanz)](/talks/art-of-being-wrong/README.md)
+* [Securing your Azure AI Workload (Brian Gorman)](https://training.majorguidancesolutions.com/courses/blog-posts-and-talks/contents/69f227f26b2f4)
 * [Unlocking Quantum Computing: An Overview (Tristan Chiappisi)](https://unlockingquantumcomputing.com/)
 * [Vector Databases and Embeddings Demystified (Jackie Gleason)](https://docs.google.com/presentation/d/1iCBRPJ-TOJ0m4-UJA5VCVQL7PBwuAlu2Pp_I4VeEO_Q/edit?usp=drivesdk)
 * [When Logs Tell the Whole Story: OpenTelemetry for Beginners (Barret Blake)](https://github.com/barretb/stirtrekdemo2026)
