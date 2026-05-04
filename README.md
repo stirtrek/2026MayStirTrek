@@ -11,14 +11,19 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 <!-- Add your sessions here, in alphabetical order by session title -->
 <!-- - [Session Title (SpeakerName)](/talks/foldername/README.md) -->
 * [A Developer's Guide to Making Security Reviews Suck Less (Jamie Dicken)](https://docs.google.com/presentation/d/1p5715POPFva8PdDP-VRzlYK_d5g1T_of/edit?usp=sharing&ouid=116389326445023115327&rtpof=true&sd=true)
+* [Agents & Arbiters - An Adventurer’s Guide to Multi-Agent Collaboration with LangGraph.js (Guy Royse)](https://github.com/guyroyse/agents-n-arbiters)
+* [An Intro to Retrieval Augmented Generation (RAG) (Ed Charbeneau)](https://theurlist.com/stirtrek-rag)
 * [Application Architecture Patterns (Joe Guadagno)](/talks/applicationarchitecture/README.md)
 * [Choosing an AI Coding Workflow (Cory House)](https://www.dropbox.com/scl/fi/khwsjmfdfizbn7mpbgvox/15-Key-Decisions-)
 * [Claude Code in Action: Transforming Custom Software Development with Agentic AI (Kevin Grossnicklaus)](https://www.architectnow.net/download-details/stirtrek-2026)
 * [Comparing Promises, Observables, and Signals (Lance Finney)](/talks/comparing-promises-observables-and-signals/README.md)
 * [Dark Side of Microservices, The (Ardalis)](/talks/darksideofmicroservices/README.md)
 * [Decision Records: Understanding Why Those Decisions Were Made! (Sarah Dutkiewicz)](/talks/decision-records/README.md)
+* [The Engineer's Playbook: Starting a New Role (Cameron Presley)](https://blog.thesoftwarementor.com/presentations/#the-engineers-playbook-starting-a-new-role)
+* [Ensuring Software Quality in the world of AI Developers (Matthew-Hope Eland)](https://drive.google.com/file/d/1jPWvTCOhoQds-Bum5XqbaF6bInmMF1bq/view?usp=drivesdk)
 * [From PRs to Performance (Eric Martin)](/talks/from-prs-to-performance-coaching-with-ai/README.md)
 * [How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users (Kathryn Grayson Nanz)](/talks/how-to-ruin-ui/README.md)
+* [Unlocking Quantum Computing: An Overview (Tristan Chiappisi)](https://unlockingquantumcomputing.com/)
 * [Vector Databases and Embeddings Demystified (Jackie Gleason)](https://docs.google.com/presentation/d/1iCBRPJ-TOJ0m4-UJA5VCVQL7PBwuAlu2Pp_I4VeEO_Q/edit?usp=drivesdk)
 * [When Logs Tell the Whole Story: OpenTelemetry for Beginners (Barret Blake)](https://github.com/barretb/stirtrekdemo2026)
 
