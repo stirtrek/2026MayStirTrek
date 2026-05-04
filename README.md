@@ -24,6 +24,8 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 * [From PRs to Performance (Eric Martin)](/talks/from-prs-to-performance-coaching-with-ai/README.md)
 * [Generating Quality Code with AI (Cory House)](https://www.dropbox.com/scl/fi/ezclfz0zakxffg3w13sdf/Automating-Quality-with-AI-Stir-Trek-2026.pptx?rlkey=cjo160mn9w9gxv09je8qiclq7&st=o0l1khso&dl=0)
 * [How to Ruin a User Interface: Surprisingly Easy Ways to Screw Over Your Users (Kathryn Grayson Nanz)](/talks/how-to-ruin-ui/README.md)
+* [LGTM is not a Strategy (Todd Nussbaum)](/talks/lgtm-not-a-strategy/lgtm-not-a-strategy.pdf)
+* [The Life-Changing Art of Being Wrong (Kathryn Grayson Nanz)](/talks/art-of-being-wrong/README.md)
 * [Unlocking Quantum Computing: An Overview (Tristan Chiappisi)](https://unlockingquantumcomputing.com/)
 * [Vector Databases and Embeddings Demystified (Jackie Gleason)](https://docs.google.com/presentation/d/1iCBRPJ-TOJ0m4-UJA5VCVQL7PBwuAlu2Pp_I4VeEO_Q/edit?usp=drivesdk)
 * [When Logs Tell the Whole Story: OpenTelemetry for Beginners (Barret Blake)](https://github.com/barretb/stirtrekdemo2026)
