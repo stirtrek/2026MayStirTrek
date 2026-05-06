@@ -19,6 +19,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 * [Claude Code in Action: Transforming Custom Software Development with Agentic AI (Kevin Grossnicklaus)](https://www.architectnow.net/download-details/stirtrek-2026)
 * [Comparing Promises, Observables, and Signals (Lance Finney)](/talks/comparing-promises-observables-and-signals/README.md)
 * [Dark Side of Microservices, The (Ardalis)](/talks/darksideofmicroservices/README.md)
+* [The Death of Data: AI, Obsolescence, and Your Digital Afterlife (Jeffrey Miller)](https://knowledgeplaybook.com/the-death-of-data/)
 * [Decision Records: Understanding Why Those Decisions Were Made! (Sarah Dutkiewicz)](/talks/decision-records/README.md)
 * [The Engineer's Playbook: Starting a New Role (Cameron Presley)](https://blog.thesoftwarementor.com/presentations/#the-engineers-playbook-starting-a-new-role)
 * [Ensuring Software Quality in the world of AI Developers (Matthew-Hope Eland)](https://drive.google.com/file/d/1jPWvTCOhoQds-Bum5XqbaF6bInmMF1bq/view?usp=drivesdk)
