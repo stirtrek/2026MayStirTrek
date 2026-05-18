@@ -21,6 +21,7 @@ All presentations were recorded and are (or will be!) available on the [Stir Tre
 * [Dark Side of Microservices, The (Ardalis)](/talks/darksideofmicroservices/README.md)
 * [The Death of Data: AI, Obsolescence, and Your Digital Afterlife (Jeffrey Miller)](https://knowledgeplaybook.com/the-death-of-data/)
 * [Decision Records: Understanding Why Those Decisions Were Made! (Sarah Dutkiewicz)](/talks/decision-records/README.md)
+* [Designing Data Pipelines That Don't Hate You Six Months Later (Chris Birie)](https://chrisbirie.github.io/speaking/talks/2026-05-stir-trek/)
 * [The Engineer's Playbook: Starting a New Role (Cameron Presley)](https://blog.thesoftwarementor.com/presentations/#the-engineers-playbook-starting-a-new-role)
 * [Ensuring Software Quality in the world of AI Developers (Matthew-Hope Eland)](https://drive.google.com/file/d/1jPWvTCOhoQds-Bum5XqbaF6bInmMF1bq/view?usp=drivesdk)
 * [From PRs to Performance (Eric Martin)](/talks/from-prs-to-performance-coaching-with-ai/README.md)
